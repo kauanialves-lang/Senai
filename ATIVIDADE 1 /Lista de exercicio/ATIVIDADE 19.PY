@@ -1,6 +1,4 @@
-qtd_frangos = =float(input("Digite a quantidade de frangos"))
+quantidade_frango = int(input("Digite quantos frangos você deseja: "))
 
-custo_chip = 4.0
-custo_alimento = 3.50
-
-gasto_por_frango = custo_chip + (2 * custo_alimento)
+valor_total = quantidade_frango * 11
+print("Você irá gastar R$",valor_total)
