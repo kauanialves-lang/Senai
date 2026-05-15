@@ -1,9 +1,3 @@
-# Grupo 9: Teste de Qualidade (Linha de Produção)
-#Problema: Verificar 10 peças. O usuário digita 1 para peça boa ou 0 para defeituosa.
-#Detalhes: Ao final das 10 repetições, o programa deve dizer: "Total de peças aprovadas: [X]".
-#Objetivo Técnico: Laço com número de repetições fixo (for) e um contador interno.
-#Variáveis: peca_status, aprovadas, total_lote.
-
 aprovadas = 0
 total_lote = 10
 
